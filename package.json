@@ -1,7 +1,7 @@
 {
   "name": "polish-no-bang-important",
   "version": "1.0.0",
-  "description": "PolishCSS plugin to prevent people from using `!important` all willy-nilly.",
+  "description": "Polish plugin to prevent people from using `!important` all willy-nilly.",
   "main": "index.js",
   "repository": {
     "type": "git",
