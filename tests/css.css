@@ -1,0 +1,7 @@
+.this-rule-will-fail {
+  color: red !important;
+}
+
+.this-rule-wont-fail {
+  color: green;
+}
